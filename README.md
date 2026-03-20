@@ -33,5 +33,5 @@ Soy un desarrollador apasionado por crear software robusto y escalable. Actualme
 
 ## 🌐 Conecta conmigo
 - 💻 **Portfolio:** [fmargar.es](https://fmargar.es)
-- 👔 **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- 👔 **LinkedIn:** [Tu Perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/fernando-m%C3%A1ximo-mart%C3%ADnez-garc%C3%ADa-ba40b8387/))
 - 📧 **Email:** fmargardeveloper@gmail.com
