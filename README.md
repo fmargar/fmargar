@@ -26,12 +26,12 @@ Soy un desarrollador apasionado por crear software robusto y escalable. Actualme
 ---
 
 ## 📈 Mis Estadísticas de GitHub
-![Stats de Fernando](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+![Stats de Fernando](https://github-readme-stats.vercel.app/api?username=fmargar&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fmargar&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Conecta conmigo
 - 💻 **Portfolio:** [fmargar.es](https://fmargar.es)
-- 👔 **LinkedIn:** [Tu Perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/fernando-m%C3%A1ximo-mart%C3%ADnez-garc%C3%ADa-ba40b8387/))
+- 👔 **LinkedIn:** [Fernando Máximo Martínez García](https://www.linkedin.com/in/fernando-m%C3%A1ximo-mart%C3%ADnez-garc%C3%ADa-ba40b8387/)
 - 📧 **Email:** fmargardeveloper@gmail.com
