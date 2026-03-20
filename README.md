@@ -30,7 +30,7 @@ Soy un desarrollador apasionado por construir software robusto, escalable y segu
 ---
 
 ## 📈 Mis Estadísticas
-![Stats de Fernando](https://github-readme-stats.vercel.app/api?username=fmargar&show_icons=true&theme=radical)
+![Stats de Fernando](https://github-readme-stats.vercel.app/api?username=fmargar&show_icons=true&theme=radical&count_private=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fmargar&layout=compact&theme=radical)
 
 ---
