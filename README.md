@@ -41,12 +41,6 @@ Más allá de escribir código, mantengo un **Ubuntu Server** dedicado donde ges
 
 ---
 
-## 📈 Mis Estadísticas
-![Stats de Fernando](https://github-readme-stats.vercel.app/api?username=fmargar&show_icons=true&theme=radical&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fmargar&layout=compact&theme=radical)
-
----
-
 ## 🌐 Conecta conmigo
 - 💻 **Portfolio:** [fmargar.es](https://fmargar.es)
 - 👔 **LinkedIn:** [Fernando Máximo](https://www.linkedin.com/in/fernando-m%C3%A1ximo-mart%C3%ADnez-garc%C3%ADa-ba40b8387/)
