@@ -1,6 +1,6 @@
 ## Fernando Máximo Martínez García
 
-**AI Engineer** · LLM en producción · agentes de IA · Python · Laravel · Docker — Marbella (Málaga)
+**Desarrollador Full Stack** · IA en producción · agentes de IA · Python · Laravel · Docker — Marbella (Málaga)
 
 Llevo la IA a producción con criterio de ingeniería: un LLM que propone y una persona que aprueba antes de publicar nada.
 Dirijo varios agentes de IA en paralelo sobre mi propio servidor y con ellos construyo y despliego productos completos.
@@ -24,7 +24,7 @@ Uso IA a diario desde principios de 2026, y de forma muy intensiva con Claude Co
 
 ### Stack
 
-- **IA y LLM:** OpenAI API, Claude Code, Codex, servidores MCP, coordinación multiagente, *context engineering*, modelos en local (Qwen3-VL, bitsandbytes), evaluación con conjunto de prueba
+- **IA y LLM:** Claude Code, Codex y Gemini en el día a día; OpenAI integrado por API en producción; servidores MCP, coordinación multiagente, *context engineering*, modelos en local (Qwen3-VL, bitsandbytes), evaluación con conjunto de prueba
 - **Lenguajes:** Python, PHP, TypeScript, JavaScript, SQL
 - **Backend y datos:** Laravel, Node.js, PostgreSQL, MySQL, Redis, OpenAPI, ETL, Odoo
 - **Frontend:** Astro, Svelte, React, Next.js, Tailwind CSS
