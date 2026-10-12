@@ -1,47 +1,33 @@
-# Hola, soy Fernando Máximo Martínez García 👋 
+## Fernando Máximo Martínez García
 
-### Full Stack Developer | DevOps Enthusiast | Arquitecturas Limpias & Smart Cities
+**AI Engineer** · LLM en producción · agentes de IA · Python · Laravel · Docker — Marbella (Málaga)
 
-Soy un desarrollador apasionado por construir software robusto, escalable y seguro. Me muevo con soltura en todo el ciclo de vida de la aplicación: desde el diseño de complejas bases de datos relacionales y el desarrollo de APIs RESTful, hasta el despliegue y mantenimiento de los servicios en producción. 
+Llevo la IA a producción con criterio de ingeniería: un LLM que propone y una persona que aprueba antes de publicar nada.
+Dirijo varios agentes de IA en paralelo sobre mi propio servidor y con ellos construyo y despliego productos completos.
+Que una IA escriba el código no lo hace apto para producción: lo hace el sistema de alrededor (diseño por escrito, tests, CI obligatoria y revisión).
 
-Actualmente colaboro con el **Ayuntamiento de Marbella** y administro mi propia infraestructura de servidores *self-hosted*.
+*I build production software with AI agents, and the guardrails that make it shippable.*
 
----
+### Proyectos
 
-## 🏛️ Proyectos Destacados
+| | |
+|---|---|
+| **[Adivinadle](https://adivinadle.com)** | Juegos diarios de adivinar personajes de videojuegos: 9 juegos, 4 modos y casi 1.800 personajes. Laravel 13 + Octane, PostgreSQL, Redis, Astro y Svelte con contrato OpenAPI. CI con PHPStan al máximo, Pest, Vitest y Playwright en móvil y escritorio, con axe y Lighthouse. Construido dirigiendo agentes de IA. |
+| **[Equipo de agentes en paralelo](https://fmargar.es/work/agentes-ia)** | Un agente por proyecto y un supervisor que los arranca, vigila y reanuda. El estado vive en una hoja de ruta versionada: al 30 % de contexto, relevo a un agente nuevo que solo lee ese fichero. La máquina se reparte por presión real de CPU y memoria (PSI de Linux). |
+| **[LLM en el ERP](https://fmargar.es/work/uniformes-bahia)** | Módulo de Odoo que redacta la descripción de cada producto desde su ficha técnica con la API de OpenAI. Entra como borrador, con autoría registrada, y un responsable lo aprueba antes de publicarlo (*human-in-the-loop*). |
+| **[Visión en local](https://fmargar.es/work/vision-local)** | Qwen3-VL-4B cuantizado a 4 bits (NF4) en 2,7 GB de VRAM para automatizar interfaces por visión. Evaluado con un conjunto de prueba antes de decidir entrenarlo: 6/6 pantallas y 15/15 clics, sin entrenar. |
+| **[Infraestructura propia](https://fmargar.es/work/homelab)** | Servidor Linux con más de 100 contenedores, Tailscale, Cloudflare Tunnels y Access, logs centralizados y copias cifradas fuera de casa. Orquestador en Node.js + PostgreSQL que sustituyó 28 temporizadores sueltos. |
+| **[Gestión de vados · Ayto. de Marbella](https://fmargar.es/work/sistema-vados-marbella)** | Laravel 12, React 18, Inertia y PostgreSQL: importadores de datos heredados, cinco roles con alcance territorial y auditoría de cada cambio. |
+| **[Marbella Fácil](https://marbellafacil.com)** | Mi TFG (10, Matrícula de Honor): plataforma publicada de turismo y ciudad con Laravel 12, React 19, MySQL, Docker y pagos con Stripe. |
 
-* 🚗 **Sistema de Gestión de Vados (Excmo. Ayto. de Marbella):** Desarrollo integral de una plataforma interna bajo el patrón MVC. Implementación de un sistema de auditoría automatizado, control de acceso basado en roles (RBAC), geolocalización avanzada y migración/normalización de datos *legacy*. *(Laravel 12, React 18, PostgreSQL, Inertia.js)*.
-* 🏖️ **Marbella Fácil (TFG):** Plataforma SaaS Smart City orientada al turismo y servicios locales. Arquitectura distribuida de alta disponibilidad con integración de IA (Groq / Llama 3) para asistencia al usuario, pasarelas de pago recurrentes y consumo de APIs meteorológicas. *(Laravel 12, React 19, MySQL, Docker)*.
-* 🏥 **ASISA (Prácticas):** Mantenimiento técnico, optimización de rendimiento y alta disponibilidad en portales corporativos web.
+### Stack
 
----
+- **IA y LLM:** OpenAI API, Claude Code, Codex, servidores MCP, coordinación multiagente, *context engineering*, modelos en local (Qwen3-VL, bitsandbytes), evaluación con conjunto de prueba
+- **Lenguajes:** Python, PHP, TypeScript, JavaScript, SQL
+- **Backend y datos:** Laravel, Node.js, PostgreSQL, MySQL, Redis, OpenAPI, ETL, Odoo
+- **Frontend:** Astro, Svelte, React, Next.js, Tailwind CSS
+- **DevOps y calidad:** Docker, Linux, GitHub Actions, Playwright, PHPStan, Pest, Vitest, Nginx, Caddy, Cloudflare, Tailscale
 
-## 🖥️ Mi Ecosistema Self-Hosted (Home Lab)
+### Contacto
 
-Más allá de escribir código, mantengo un **Ubuntu Server** dedicado donde gestiono mis propios despliegues en producción. Mi infraestructura incluye:
-* **Orquestación:** Docker y Portainer para aislar servicios mediante contenedores.
-* **Seguridad & Redes:** Configuración de túneles con Cloudflare (WAF/Proxy inverso) y redes Mesh cifradas punto a punto mediante Tailscale.
-* **Servicios Activos:** Alojamiento de mi portfolio personal (`fmargar.es`), monitorización continua mediante Uptime Kuma y despliegue de plataformas multimedia privadas como Navidrome.
-
----
-
-## 🛠️ Stack Tecnológico
-
-### 🖥️ Backend & Core
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### 🎨 Frontend & UI
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9433E?style=for-the-badge&logo=ubuntu&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-## 🌐 Conecta conmigo
-- 💻 **Portfolio:** [fmargar.es](https://fmargar.es)
-- 👔 **LinkedIn:** [Fernando Máximo](https://www.linkedin.com/in/fernando-m%C3%A1ximo-mart%C3%ADnez-garc%C3%ADa-ba40b8387/)
-- 📧 **Email:** fmargardeveloper@gmail.com
+[fmargar.es](https://fmargar.es) · [LinkedIn](https://www.linkedin.com/in/fernando-maximo-martinez-garcia) · [fmargardeveloper@gmail.com](mailto:fmargardeveloper@gmail.com) · [CV en PDF](https://fmargar.es/cv/fernando-martinez-cv.pdf)
