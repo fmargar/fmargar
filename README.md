@@ -1,6 +1,6 @@
 ## Fernando Máximo Martínez García
 
-**Desarrollador Full Stack** · IA en producción · agentes de IA · Python · Laravel · Docker — Marbella (Málaga)
+**Desarrollador Full Stack** · agentes de IA · integración de LLM · Python · Laravel · Docker — Marbella (Málaga)
 
 Llevo la IA a producción con criterio de ingeniería: un LLM que propone y una persona que aprueba antes de publicar nada.
 Dirijo varios agentes de IA en paralelo sobre mi propio servidor y con ellos construyo y despliego productos completos.
