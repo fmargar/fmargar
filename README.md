@@ -2,7 +2,7 @@
 
 **Desarrollador Full Stack** · agentes de IA · integración de LLM · Python · Laravel · Docker — Marbella (Málaga)
 
-Llevo la IA a producción con criterio de ingeniería: un LLM que propone y una persona que aprueba antes de publicar nada.
+Construyo y pongo en marcha software con un equipo de agentes de IA, con criterio de ingeniería: un LLM que propone y una persona que aprueba antes de publicar nada.
 Dirijo varios agentes de IA en paralelo sobre mi propio servidor y con ellos construyo y despliego productos completos.
 Que una IA escriba el código no lo hace apto para producción: lo hace el sistema de alrededor (diseño por escrito, tests, CI obligatoria y revisión).
 Uso IA a diario desde principios de 2026, y de forma muy intensiva con Claude Code desde julio.
